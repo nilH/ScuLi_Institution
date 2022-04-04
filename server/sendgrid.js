@@ -1,1 +1,1 @@
-export const APIKEY="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";
+export const APIKEY="";
