@@ -1,0 +1,3 @@
+[submodule "src/app/jetbase"]
+	path = src/app/jetbase
+	url = https://github.com/bhiln/jetbase.git
